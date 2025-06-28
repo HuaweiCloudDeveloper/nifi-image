@@ -23,7 +23,7 @@
 - NiFi also supports security protocols such as SSL, HTTPS, SSH, and other encryption methods.
 - It also supports user and role management and can be configured with LDAP for authorization.
 
-This project provides an open-source image product, [**Nifi Data Integration Platform**](https://marketplace.huaweicloud.com/hidden/contents/e2912d41-ea32-480f-b210-3b98197c76a4#productid=OFFI1128523591003291648), which has pre-installed the nifi software and its related operating environment, and provides deployment templates. Come and refer to the usage guide to easily start an "out-of-the-box" and efficient experience!
+This project provides an open-source image product, [**Nifi Data Integration Platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/b81f744b-5bdd-4236-8e80-312faf157322), which has pre-installed the nifi software and its related operating environment, and provides deployment templates. Come and refer to the usage guide to easily start an "out-of-the-box" and efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 2GHz or higher
@@ -37,7 +37,7 @@ This project provides an open-source image product, [**Nifi Data Integration Pla
 
 | Image Specification                                                                                                                                 | Feature Description                                           | Remarks |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [Nifi1.28.1-arm-v1.0](https://marketplace.huaweicloud.com/hidden/contents/e2912d41-ea32-480f-b210-3b98197c76a4#productid=OFFI1128523591003291648) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Nifi-1.28.1-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/nifi-image/tree/Nifi-1.28.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us through [issues](https://github.com/HuaweiCloudDeveloper/nifi-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
